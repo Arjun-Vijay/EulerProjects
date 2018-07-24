@@ -1,6 +1,4 @@
-package matrix;
-
-public class matrix {
+public class Euler5 {
 
 
     public static void main(String[] args){
