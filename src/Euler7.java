@@ -40,9 +40,3 @@ public class Euler7{
 
 
 
-
-//find the 10,001 prime number
-//find prime number by using a counter
-//establish a number as prime if it does not divisble by any number smaller than it
-	//given a number n
-	//check to see if its prime
